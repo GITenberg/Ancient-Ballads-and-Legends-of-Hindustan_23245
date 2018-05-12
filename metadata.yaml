@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7986
     wikipedia: http://en.wikipedia.org/wiki/Toru_Dutt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23245#Ancient-Ballads-and-Legends-of-Hindustan
 gutenberg_bookshelf:
 - India
 - Folklore
